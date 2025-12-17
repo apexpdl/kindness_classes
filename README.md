@@ -22,3 +22,19 @@ This website is intentionally lightweight and fast, built as a static site for r
 
 ## 📂 Project Structure
 
+.
+├── index.html
+├── contact.html
+├── services.html
+├── work.html
+├── css/
+├── js/
+└── images/
+
+## 🌍 Deployment
+
+The website is live and deployed on Netlify:
+
+👉 https://kindnessclasses.netlify.app/
+
+The project is hosted as a static site with no build step.
